@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial.cs", "program.cs\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Of_Zero", "Number_Of_Zero\Number_Of_Zero.csproj", "{59B6296C-3581-4494-9F03-6E12CF4721D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingStack", "QueueUsingStack\QueueUsingStack.csproj", "{5E5F2B95-3D23-451B-903F-E0CC7F14EF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSortOperation", "StackSortOperation\StackSortOperation.csproj", "{033ACBA8-8621-4087-8810-D6E9FCA5CE25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{59B6296C-3581-4494-9F03-6E12CF4721D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59B6296C-3581-4494-9F03-6E12CF4721D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59B6296C-3581-4494-9F03-6E12CF4721D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5F2B95-3D23-451B-903F-E0CC7F14EF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5F2B95-3D23-451B-903F-E0CC7F14EF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5F2B95-3D23-451B-903F-E0CC7F14EF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5F2B95-3D23-451B-903F-E0CC7F14EF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033ACBA8-8621-4087-8810-D6E9FCA5CE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033ACBA8-8621-4087-8810-D6E9FCA5CE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033ACBA8-8621-4087-8810-D6E9FCA5CE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033ACBA8-8621-4087-8810-D6E9FCA5CE25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
